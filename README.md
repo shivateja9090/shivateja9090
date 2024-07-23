@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="MasterHead" style="max-height: 100vh; width: auto;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shiva Teja</h1>
+
+
 <h3 align="center">Enthusiastic MERN stack developer with a strong drive for mastering new technologies and developing impactful web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFqdjFmNHZ6Y2R4bWs0YjE4MDhoZzM0bDhwY291MzgxZjVuaGg4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
 - 🌱 I’m currently learning **Next.js,React**
